@@ -1,4 +1,5 @@
 print("hello world!")
-print("hello Git!")
-print("hello Sakura!")
+print("hello Git! master test!")
+print("hello Sakura! master test!")
 print("hello Mikoto!")
+print("master test!")
