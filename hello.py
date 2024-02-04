@@ -1,4 +1,5 @@
 print("hello world!")
-print("hello Git!")
+print("hello Git! hot-fix test!")
 print("hello Sakura!")
-print("hello Mikoto!")
+print("hello Mikoto! hot-fix text!")
+print("hot-fix test!")
